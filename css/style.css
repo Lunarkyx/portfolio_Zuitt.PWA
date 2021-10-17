@@ -10,7 +10,7 @@ html{
 
 h2{
 	font-family: 'Montserrat', sans-serif;
-	color:#007bff;
+	color: #fa7e14;
 }
 
 h1{
@@ -47,7 +47,6 @@ ul{
   padding: 5px;
 }
 
-}
 .nav-link{
 	text-transform: uppercase;
 }
